@@ -272,6 +272,10 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+.row{
+  margin-top: 60px;
+  margin-bottom: 28px;
+}
 @media (max-width: 1200px){
   .container-fluid{
     margin-top: 6vh;
@@ -288,7 +292,7 @@ body {
 @media (min-width: 1200px){
 .col-xl-4 {
   padding-bottom: 50px;
-  padding-top: 30px;
+  /*padding-top: 30px;*/
 
 }
 @media (max-width: 437px){
